@@ -1,4 +1,12 @@
-[
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
     {
       "id": "ghost-whey-x-chips-ahoy",
       "name": "Ghost Whey X Chips Ahoy",
@@ -13,4 +21,8 @@
       "price": "$499.99",
       "image": "https://www.glazz.co.uk/wp-content/uploads/2018/09/Amazing-Modern-House-Designs-HD-Wallpaper.jpg"
     }
-  ]
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
