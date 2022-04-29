@@ -12,6 +12,7 @@
       "name": "Private House",
       "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
       "price": "$399.99",
+      "m2": "300",
       "image": "https://p4.wallpaperbetter.com/wallpaper/591/884/850/house-modern-mansions-architecture-wallpaper-preview.jpg"
     },
     {
@@ -19,6 +20,7 @@
       "name": "Private House",
       "details": "One of the best ways to create a comfortable and welcoming space is to include plenty of soft, luxe textures through the use of upholstery.",
       "price": "$499.99",
+      "m2": "500",
       "image": "https://www.glazz.co.uk/wp-content/uploads/2018/09/Amazing-Modern-House-Designs-HD-Wallpaper.jpg"
     },
     {
@@ -26,6 +28,7 @@
       "name": "Residence",
       "details": "illed with a combination of moody colors over high-end contemporary furnishings and some special examples of statement lighting, the interior looks like secret style lairs.",
       "price": "$1499.99",
+      "m2": "240",
       "image": "https://wallpaperaccess.com/full/1859246.jpg"
     }
 ],
