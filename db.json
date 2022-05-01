@@ -33,25 +33,8 @@
       "m2": "240",
       "status": "completed",
       "image": "https://wallpaperaccess.com/full/1859246.jpg"
-    },
-    {
-      "id": "3D-example",
-      "name": "House",
-      "details": "illed with a combination of moody colors over high-end contemporary furnishings and some special examples of statement lighting, the interior looks like secret style lairs.",
-      "price": "$240, 500",
-      "m2": "190",
-      "status": "completed",
-      "image": "https://i.pinimg.com/originals/93/85/5d/93855db0f0df9dba7d7a21953358cccc.jpg"
-    },
-    {
-      "id": "3D-example1",
-      "name": "House",
-      "details": "illed with a combination of moody colors over high-end contemporary furnishings and some special examples of statement lighting, the interior looks like secret style lairs.",
-      "price": "$200, 000",
-      "m2": "130",
-      "status": "completed",
-      "image": "https://www.ronenbekerman.com/wp-content/uploads/2018/08/modern-house_logolu_resize-1920x1080.jpg"
     }
+   
 ],
   "profile": {
     "name": "typicode"
