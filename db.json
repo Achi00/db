@@ -90,21 +90,21 @@
     "id": "game-8",
     "name": "F1 22",
     "type": "GAME",
-    "price": "$59",
+    "price": "$59.99",
     "image": "https://images3.alphacoders.com/123/1230874.png"
   },
   {
     "id": "game-9",
     "name": "F1 22",
     "type": "GAME",
-    "price": "$59",
+    "price": "$59.99",
     "image": "https://images3.alphacoders.com/123/1230874.png"
   },
   {
     "id": "game-10",
     "name": "God Of War",
     "type": "GAME",
-    "price": "$59",
+    "price": "$39.99",
     "image": "https://www.teahub.io/photos/full/275-2754848_kratos-atreus-god-of-war-wallpapers-download-free.jpg"
   }
 ],
