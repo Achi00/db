@@ -35,6 +35,79 @@
       "image": "https://wallpaperaccess.com/full/1859246.jpg"
     }
 ],
+"games": [
+  {
+    "id": "game-1",
+    "name": "ELDEN RING",
+    "type": "GAME",
+    "price": "$14",
+    "image": "https://p325k7wa.twic.pics/high/elden-ring/elden-ring/00-page-setup/elden-ring-new-header.jpg?twic=v1/cover=1920/step=10/quality=80"
+  },
+  {
+    "id": "game-2",
+    "name": "Counter-Strike: Global Offensive",
+    "type": "GAME",
+    "price": "FREE",
+    "image": "https://wallpaper.dog/large/10873456.jpg"
+  },
+  {
+    "id": "game-3",
+    "name": "Grand Theft Auto V",
+    "type": "GAME",
+    "price": "$21.99",
+    "image": "https://www.gvme.org/pages/get_image_large.php?id=1752"
+  },
+  
+  {
+    "id": "game-4",
+    "name": "Call of Duty®: Black Ops III",
+    "type": "GAME",
+    "price": "$21.99",
+    "image": "https://wallpaperaccess.com/full/641787.jpg"
+  },
+  {
+    "id": "game-5",
+    "name": "PUBG: BATTLEGROUNDS",
+    "type": "GAME",
+    "price": "FREE",
+    "image": "https://wallpaperaccess.com/full/875246.jpg"
+  },
+  {
+    "id": "game-6",
+    "name": "Rocket League",
+    "type": "GAME",
+    "price": "FREE",
+    "image": "https://cdn2.unrealengine.com/egs-social-rocketleague-news-1920x1080-1920x1080-975383433.jpg"
+  },
+  {
+    "id": "game-7",
+    "name": "FIFA 22",
+    "type": "GAME",
+    "price": "$55",
+    "image": "https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/wp-media-folder-esports-com/app/uploads/2022/02/FIFA22-Name-change-incoming.jpg"
+  },
+  {
+    "id": "game-8",
+    "name": "F1 22",
+    "type": "GAME",
+    "price": "$59",
+    "image": "https://images3.alphacoders.com/123/1230874.png"
+  },
+  {
+    "id": "game-9",
+    "name": "F1 22",
+    "type": "GAME",
+    "price": "$59",
+    "image": "https://images3.alphacoders.com/123/1230874.png"
+  },
+  {
+    "id": "game-10",
+    "name": "God Of War",
+    "type": "GAME",
+    "price": "$59",
+    "image": "https://www.teahub.io/photos/full/275-2754848_kratos-atreus-god-of-war-wallpapers-download-free.jpg"
+  }
+],
 "examples": [
   {
     "id": "3dexample-1",
@@ -67,4 +140,5 @@
   "profile": {
     "name": "typicode"
   }
+  
 }
